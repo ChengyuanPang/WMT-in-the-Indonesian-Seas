@@ -15,7 +15,7 @@ The raw data are saved in Matlab data format. Plsese download all files into a f
 ### `T-S diagram.mat`:
 
 Using this data file can reproduce the T-S diagram (Figure 3) in the paper. 'T_10km', 'T_4km', and 'T_2km' represents the temprature of tidal model with 3 different resolution. 'T_NT' represents the temperature 2 km no-tide model. 'ACCESS' and 'CARS' represent the data of the access model and CARS climatology. Salinity is named in similar format
-CARS climatology can be accesses through link (http://www.marine.csiro.au/~dunn/cars2009/).
+CARS climatology can be accessed through link (http://www.marine.csiro.au/~dunn/cars2009/).
 
 ### `Mixing.mat`:
 
