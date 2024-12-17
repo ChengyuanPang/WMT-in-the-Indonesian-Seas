@@ -1,12 +1,12 @@
 # Variability due to seasonal cycle, eddies, and tides enhances water mass transformation in the Indonesian Seas
-This project provides the raw data and code to reproduce the figures of a paper submitted to JGR-oceans
+This project provides the raw data and codes to reproduce the figures of a paper submitted to JGR-oceans
 The raw data are saved in Matlab data format. Plsese download all files into a folder and run the script.m under MATLAB. The code and data to reproduce key results are shown below. Full model outputs are available upon request to the corresponding author.
 
 ## Raw Data
 
 ### `ND_section.mat`:
  
-`neutral_D` is the 3 dimensional raw data to produce the vertical density section (figure 1) in the Indonesian Seas. The varible `mean` is the annual mean neutral density and `April` and `August` represent the monthly mean of neutral density in April and August. 
+`ND_section` is the raw data to produce the vertical density section (figure 1) in the Indonesian Seas. The varible `mean` is the annual mean section of the neutral density and `April` and `August` represent the monthly mean in April and August. 
 
 ### `SST.mat`, `Bathymetry.mat` and `Vertical velocity.mat`:
  
