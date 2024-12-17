@@ -19,7 +19,7 @@ CARS climatology can be accessed through link (http://www.marine.csiro.au/~dunn/
 
 ### `Mixing.mat`:
 
-The file provide the vertical diffusivity in the model. The variabiles `profile_10km` and `profile_4km` and `profile_2km` are the vertical profiles of regionally averaged diffusivity in the 10 km, 4 km and 2 km tidal model. `profile_2km_nt` is the profile of 2 km no-tide model. These variabiles are used to produce figure 4a. The variables `map_100` and `map_1000_t` shows the map of the vertically averaged mixing within the mixed layer and below the mixed layer in the tidal model (used to produce figure 4b and figure 4c). `map_1000_nt` shows the map of the vertically averaged mixing below the mixed layer in the tidal model (used to produce figure 4d). 
+The file provide the vertical diffusivity in the model. The variabiles `profile_10km` and `profile_4km` and `profile_2km` are the vertical profiles of regionally averaged diffusivity in the 10 km, 4 km and 2 km tidal model. `profile_2km_nt` is the profile of 2 km no-tide model. These variabiles are used to produce figure 4a. The variables `map_100` and `map_1000_t` shows the map of the vertically averaged mixing within the mixed layer and below the mixed layer in the tidal model (used to produce figure 4b and figure 4c). `map_1000_nt` shows the map of the vertically averaged mixing below the mixed layer in the tidal model (used to produce figure 4d). `RC` is the vertical coordinate.
 
 ### `WMT.mat`:
 
