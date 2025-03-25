@@ -29,6 +29,9 @@ The files provide the data to reproduce the figure 5 - water mass transformation
 
 The files provide the data of monthly thermocline thickness (`h`), monthly velocity (`v`), monthly wind speed used to produce figure 6. The zonal and meridonal components of wind speed are `w_u` and `w_v`.
 
+### `diffusivity_profiles.mat`:
+
+The files provide the data of vertical diffusivity in the regional model (`Kv_model`), site names (`site`), longitude (`lon`) and latitude (`lat`) used to produce figure S1.
 ### `blue_red_saturated` and `mix_map`:
 
 These two are the colormap files used to plot vertical velocity (figure 2c) and diffusivity maps (figure 4c and 4d).
