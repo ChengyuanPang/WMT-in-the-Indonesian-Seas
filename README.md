@@ -6,7 +6,7 @@ The raw data are saved in Matlab data format. Plsese download all files into a f
 
 ### `ND_section.mat`:
  
-`ND_section` is the raw data to produce the vertical density section (figure 1) in the Indonesian Seas. The varible `mean` is the annual mean section of the neutral density and `April` and `August` represent the monthly mean in April and August. 
+`ND_section` is the raw data to produce the vertical density section (figure 1) in the Indonesian Seas. The varible `ND` is the annual mean meridional section of the neutral density, `YC` is the latitude and `D` is the depth. 
 
 ### `SST.mat`, `Bathymetry.mat` and `Vertical velocity.mat`:
  
